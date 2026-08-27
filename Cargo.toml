@@ -1,0 +1,9 @@
+[package]
+name = "tiny-wat-interpreter"
+version = "0.1.0"
+edition = "2021"
+license = "MIT"
+
+[dependencies]
+sexp = "1.1.4"
+
